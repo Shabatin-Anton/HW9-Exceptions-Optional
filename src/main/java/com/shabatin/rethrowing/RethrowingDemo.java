@@ -1,7 +1,5 @@
 package main.java.com.shabatin.rethrowing;
 
-import java.io.FileNotFoundException;
-
 public class RethrowingDemo {
 
     public void someMethod() throws NullPointerException{
